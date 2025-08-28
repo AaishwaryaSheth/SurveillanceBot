@@ -19,11 +19,20 @@ ScoutBot is a surveillance robot concept designed for restricted workplaces and 
 
 ## Technologies Used
 **Hardware**:
- - Raspberry Pi Zero 2 W, Ultrasonic Sensor HC-SR04, Motor Driver L298N, Camera Module 2.
+| Component           | Connections                 |
+|---------------------|-----------------------------|
+| Raspberry Pi Zero 2W|                             |
+| Pi Camera Module 2  |                             |
+| HC-SR04             |                             |
+| L298N Motor Driver  |                             |
+
 **Software**:
   - Python, OpenCV, EasyOCR
   - MicroPython (for Pico W)
-  - Firebase / Cloud DB
+  - Firebase 
   - MQTT / HTTP
+    
+## Prototype:
 
+## Some Codes:
 
