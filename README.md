@@ -32,7 +32,10 @@ ScoutBot is a surveillance robot concept designed for restricted workplaces and 
   - Firebase 
   - MQTT / HTTP
     
-## Prototype:
+## Prototype: 
+**Dashboard** 
+<img width="1920" height="1080" alt="Screenshot 2025-06-26 154945" src="https://github.com/user-attachments/assets/c84334f8-a8a0-4680-a84c-c81d28a926b1" />
+**ScoutBot** 
 
-## Some Codes:
+
 
