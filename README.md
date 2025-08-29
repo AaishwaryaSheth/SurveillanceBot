@@ -77,7 +77,8 @@ ScoutBot is a surveillance robot concept designed for restricted workplaces and 
 
 ### Software:
   - Python, OpenCV, EasyOCR
-  - MicroPython (for Pico W)
+  - MicroPython
+  - HTML , CSS , Tailwind , JS 
   - Firebase 
   - MQTT / HTTP
     
