@@ -88,7 +88,7 @@ ScoutBot is a surveillance robot concept designed for restricted workplaces and 
 **Algorithm Flow**
 <img width="1306" height="844" alt="image" src="https://github.com/user-attachments/assets/bed5caf8-1d52-4f3a-90ef-bed304c5a803" />
 **ScoutBot** 
-![IMG_20250830_013206](https://github.com/user-attachments/assets/e3ddc373-ba05-47d9-b057-11a2a5bfd951)
+<img width="1306" height="844" alt="image" src="https://github.com/user-attachments/assets/e3ddc373-ba05-47d9-b057-11a2a5bfd951"/>
 
 
 
