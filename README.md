@@ -237,9 +237,14 @@ ScoutBot/
 
 ## 👤 Author
 
-**Aaishwarya Sheth** — Embedded Engineer | Robotics | Firmware  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername) · [Email](mailto:aaishwarya.sheth@gmail.com)
+## 👥 Team
 
+| Name | Role |
+|---|---|
+| **Aaishwarya Sheth** | Hardware architecture, motor control firmware, obstacle avoidance, system integration |
+| **Teammate Name** | [Their contribution — e.g., web dashboard, Firebase integration] |
+| **Teammate Name** Their contribution — e.g., OpenCV pipeline, face recognition] |
+| **Aaishwarya Sheth** | Hardware architecture, motor control firmware, obstacle avoidance, system integration |
 > *If this project helped you or you found it interesting, a ⭐ on the repo goes a long way!*
 
 ---
