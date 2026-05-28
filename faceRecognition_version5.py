@@ -36,7 +36,7 @@ def recognize_faces_fun(video_data):
     for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
         matches = face_recognition.compare_faces(known_face_encodings, face_encoding)
         print(f"Face encoding: {face_encoding}, Matches: {matches}")  # Debug print
-        name = "naruto's bro"
+        name = "entitydetected"
 
         if True in matches:
             first_match_index = matches.index(True)
